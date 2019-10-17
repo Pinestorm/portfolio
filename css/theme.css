@@ -12,5 +12,56 @@
 }
 
 html {
-  font-family: var(--font-primary)
+  font-family: var(--font-primary);
+}
+
+h1,h2 {
+  color: var(--color-primary);
+  font-family: var(--font-secondary);
+}
+
+h3,h4 {
+  color: var(--color-primary-dark);
+  font-family: var(--font-secondary);
+}
+
+h5,h6 {
+  font-family: var(--font-secondary);
+  font-weight: bold;
+  color: var(--color-primary);
+}
+
+a {
+  text-decoration: none;
+  color: var(--color-accent);
+}
+
+ul,ol {
+  list-style-type: none;
+}
+
+dt {
+  color: var(--color-primary);
+  font-weight: bold;
+}
+
+cite {
+  color: var(--color-primary);
+  font-style: italic;
+}
+
+q {
+  color: var(--color-primary-dark);
+}
+
+strong {
+  color: var(--color-primary);
+}
+
+abbr {
+  color: var(--color-primary-dark);
+}
+
+mark {
+  background-color: var(--color-accent);
 }
