@@ -1,0 +1,16 @@
+:root {
+  --color-primary: #208AAE;
+  --color-primary-dark: #0D2149;
+  --color-secondary: #F9FFFF;
+  --color-accent: #FFA400;
+  --color-offwhite: #f2f2f2;
+  --color-white: #fff;
+  --color-black: #000000;
+
+  --font-primary: Lora, serif;
+  --font-secondary: Nunito, sans-serif;
+}
+
+html {
+  font-family: var(--font-primary)
+}
