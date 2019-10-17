@@ -1,0 +1,15 @@
+.card-img {
+  max-width: 500px;
+  text-align: center;
+  border: 3px solid var(--color-primary);
+}
+
+.card {
+  background-color: var(--color-white);
+  border: 3px solid var(--color-primary);
+  max-width: 700px;
+}
+
+.card-title {
+  text-align: left;
+}
