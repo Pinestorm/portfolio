@@ -1,0 +1,17 @@
+title: "Buttons"
+description: |
+  Buttons should be used in situations where an action is required, or to stylise a link to another part of the webpage.
+
+patterns:
+  basic:
+    title: "Basic"
+    description: |
+      The standard button used on banners or at the bottom of a paragraph.
+  nav:
+    title: "Nav"
+    description: |
+      The buttons used on the header as the navigation.
+  basic-orange:
+    title: "Basic Orange"
+    description: |
+      The same button as basic but an orange variant. Used when you want to draw a bit more attention to the button.
