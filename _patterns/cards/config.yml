@@ -3,7 +3,7 @@ description: |
   Cards are used to display multiple different items on a page in a grid formation.
 
 patterns:
-  basic:
+  portfolio-card:
     title: "Portfolio Card"
     description: |
       The main card used to show all the thumbnails of my portfolio pieces.
