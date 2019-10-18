@@ -1,0 +1,8 @@
+.footer {
+  height: 100%;
+  background-color: var(--color-primary-dark);
+}
+
+.copyright {
+  color: var(--color-white);
+}
