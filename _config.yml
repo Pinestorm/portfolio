@@ -9,6 +9,8 @@ patternbot:
   font_url: "https://fonts.googleapis.com/css?family=Lora:400,700|Nunito:400,700"
   colors:
     background: "--color-secondary"
+    patterns:
+      icons.icons: "--color-offwhite"
   rationales:
     typefaces.primary: |
       Lora was selected because it is a simple, easy to read font that compliments the header font, Nunito.
