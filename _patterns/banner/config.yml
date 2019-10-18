@@ -1,3 +1,17 @@
 title: "Banners"
 description: |
   Banners should be used when there is a call-to action needed somewhere, or to display a header in a creative way.
+
+patterns:
+  homepage-banner:
+    title: "Homepage Banner"
+    description: |
+      The banner that is used on the homepage to introduce the website.
+  header-banner:
+    title: "Header Banner"
+    description: |
+      A banner that is used before content to decorate a header.
+  portfolio-banner:
+    title: "Portfolio Banner"
+    description: |
+      A banner that is used to display the different finished portfolio pieces.
