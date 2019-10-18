@@ -6,3 +6,13 @@
 .header {
   background: linear-gradient(var(--color-primary), var(--color-secondary));
 }
+
+.small-header {
+  background: linear-gradient(var(--color-primary-dark), var(--color-primary), var(--color-secondary));
+  max-height: 7em;
+}
+
+.signature-2 {
+  max-width: 6em;
+  margin-left: 1em;
+}

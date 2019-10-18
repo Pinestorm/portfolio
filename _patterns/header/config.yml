@@ -1,3 +1,13 @@
 title: "Headers"
 description: |
   The headers should be displayed at the top of every page of the website.
+
+patterns:
+  main-header:
+    title: "Main Header"
+    description: |
+      The header that is to be displayed on the homepage only.
+  secondary-header:
+    title: "Secondary Header"
+    description: |
+      The header that is to be used on all other pages besides the homepage.
