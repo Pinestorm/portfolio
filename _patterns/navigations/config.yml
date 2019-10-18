@@ -1,3 +1,9 @@
 title: "Navigations"
 description: |
   The navigations are links or other things that are not buttons that guide a user through a webpage.
+
+patterns:
+  breadcrumbs:
+    title: "Breadcrumbs"
+    description: |
+      Breadcrumbs are put at the top of the page before the content to let the user easily navigate back to past pages.
