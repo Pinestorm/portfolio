@@ -1,3 +1,13 @@
 title: "Sections"
 description: |
   Sections of the webpage that can exist on their own.
+
+patterns:
+  bio:
+    title: "Bio"
+    description: |
+      The section that introduces who I am as a graphic designer and person.
+  image-gallery:
+    title: "Image Gallery"
+    description: |
+      The section of the portfolio page that displays all the images related to the piece in one collected area.

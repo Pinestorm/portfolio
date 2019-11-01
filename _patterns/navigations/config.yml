@@ -7,3 +7,12 @@ patterns:
     title: "Breadcrumbs"
     description: |
       Breadcrumbs are put at the top of the page before the content to let the user easily navigate back to past pages.
+  social-media:
+    title: "Social Media"
+    description: |
+      This navigation is used in the footer and other places to link to all my social media.
+    background: "--color-primary-dark"
+  top-navigation:
+    title: "Top Navigation"
+    description: |
+      The navigation used in the header to link to the other pages in the website.
