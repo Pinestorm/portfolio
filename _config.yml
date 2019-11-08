@@ -20,3 +20,8 @@ patternbot:
       The primary colour blue was selected because it is a nice, versatile colour that can go well with lots of different accents. The navy blue was chosen to be an alternative to black.
     colors.secondary: |
       The frost colour was chosen to be for backgrounds of things like headers and cards, to stand out a bit from the white. It is also meant to be used on top of a black background.
+  layouts:
+    default: |
+      The website layout to be used on all pages of the website except for the home page.
+    homepage: |
+      The website layout to be used only on the home page.
