@@ -7,11 +7,32 @@ patterns:
     title: "Basic"
     description: |
       The standard button used on banners or at the bottom of a paragraph.
+    fields:
+      - name: text
+        type: string
+        example: "View Now!"
+      - name: url
+        type: url
+        example: "/portfolio/"
   nav:
     title: "Nav"
     description: |
       The buttons used on the header as the navigation.
+    fields:
+      - name: text
+        type: string
+        example: "Portfolio"
+      - name: url
+        type: url
+        example: "/portfolio/"
   basic-orange:
     title: "Basic Orange"
     description: |
       The same button as basic but an orange variant. Used when you want to draw a bit more attention to the button.
+    fields:
+      - name: text
+        type: string
+        example: "View Now!"
+      - name: url
+        type: url
+        example: "/portfolio/"

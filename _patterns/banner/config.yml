@@ -7,10 +7,32 @@ patterns:
     title: "Homepage Banner"
     description: |
       The banner that is used on the homepage to introduce the website.
+    fields:
+    - name: heading
+      type: string
+      example: "Brander, Layout Designer, Illustrator."
+    - name: text
+      type: string
+      example: "My name is Erica Rios, and welcome to my portfolio."
+    - name: image
+      type: string
+      example: "/images/banner.jpg"
+    - name: button_text
+      type: string
+      example: "View now!"
+      required: false
+    - name: button_url
+      type: button_url
+      example: "/portfolio/"
+      required: false
   header-banner:
     title: "Header Banner"
     description: |
       A banner that is used before content to decorate a header.
+    fields:
+    - name: heading
+      type: string
+      example: "Branding"
   portfolio-banner:
     title: "Portfolio Banner"
     description: |
